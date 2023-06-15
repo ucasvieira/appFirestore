@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546636839876",
+    "project_id": "teste-definitivodale",
+    "storage_bucket": "teste-definitivodale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546636839876:android:e45eebd3479662cc9e8291",
+        "android_client_info": {
+          "package_name": "com.example.appfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546636839876-pvkk059kns8dij3fu9vdjuicqe149lhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7Ce0gAbCojQCrwtU5iN7CmqxnKpPrhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546636839876-pvkk059kns8dij3fu9vdjuicqe149lhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
